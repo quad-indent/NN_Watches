@@ -1,4 +1,4 @@
-# WatchAndLearn
+# NN_Watches
 
 This program utilises machine learning to help to predict whether a customer of certain age and income is likely to purchase a watch based on past purchasing habits of other customers.
 
